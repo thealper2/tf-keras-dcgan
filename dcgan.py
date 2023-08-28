@@ -4,7 +4,6 @@ import sys
 import numpy as np
 import matplotlib.pyplot as plt
 import tensorflow as tf
-
 from tensorflow.keras.models import Sequential
 from tensorflow.keras.datasets import mnist, cifar10, fashion_mnist
 from tensorflow.keras.optimizers import Adam
